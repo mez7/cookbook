@@ -2,3 +2,4 @@
 avocado
 lemons
 spices
+salt
